@@ -26,7 +26,7 @@
 <br>
 
                 :--- | :---: | :---: | :---: | :---: |
-**Home**  :red_circle: Grosse Séries a mettre en avant :o:||nouvelle séries :o:|fav :o:|police claire :o: |carouselle :o: |search fav :wrench: :red_circle: | Menu déroulant :o: |
+**Home**  :red_circle: Grosse Séries a mettre en avant :o:|nouvelle séries :o:|fav :o:|police claire :o: |carouselle :o: |search fav :wrench: :red_circle: | Menu déroulant :o: |
 
 
 **Detail série** |Titre :o:|Résume :o:|soon date de sortit ou la  date de sortit :o: |note :o: |
