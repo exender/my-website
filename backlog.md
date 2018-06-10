@@ -35,7 +35,7 @@
 **BetSéries** |integration du systeme de parit :question: |afficher la côte :question: |créé un compte parieur avec un age ,limite stockage argent  :question: | titre du pari :question:|
 
 
-**Théme** | site avec fond sombre :wrench: |Ecriture claire :wrench: | image des series :wrench: | Ecriture :wrench: |❤️
+**Théme** | site avec fond sombre :wrench: |Ecriture claire :wrench: | image des series :wrench: | Ecriture :wrench: |
 
 
 </html>
